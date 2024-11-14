@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+##  NAME : HIRUTHIK SUDHAKAR
+## REGISTER NUMBER : 212223240054
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
